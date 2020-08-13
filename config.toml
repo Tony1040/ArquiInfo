@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://arq-inf-tarea1.netlify.app/"
 languageCode = "en-us"
 title = "Blog de cuarentena"
 theme = "bilberry"
